@@ -9,9 +9,9 @@
 				{ name: 'onboarding_1.jpg', relevance: 3 },
 				{ name: 'onboarding_2.jpg', relevance: 1 },
 				{ name: 'onboarding_3.jpg', relevance: 1 },
-				{ name: 'onboarding_4.jpg', relevance: 1 },
-				{ name: 'onboarding_5.jpg', relevance: 1 },
-				{ name: 'onboarding_6.jpg', relevance: 1 },
+				// { name: 'onboarding_4.jpg', relevance: 1 },
+				// { name: 'onboarding_5.jpg', relevance: 1 },
+				// { name: 'onboarding_6.jpg', relevance: 1 },
 				{ name: 'onboarding_7.jpg', relevance: 1 },
 				{ name: 'onboarding_8.jpg', relevance: 2 },
 			],
@@ -53,14 +53,14 @@
 					legenda: 'Editar publicação',
 				},
 				{
-					name: 'visualizacao_imagem.jpg',
-					relevance: 3,
-					legenda: 'Visualização de imagem',
-				},
-				{
 					name: 'publicacao_mudar_localizacao.jpg',
 					relevance: 2,
 					legenda: 'Mudar localização da publicação',
+				},
+				{
+					name: 'visualizacao_imagem.jpg',
+					relevance: 3,
+					legenda: 'Visualização de imagem',
 				},
 			],
 		},
@@ -146,12 +146,6 @@
 					legenda: 'Mapa com marcadores e agrupamentos',
 				},
 				{ name: 'rebobina_mapa_3.jpg', relevance: 1 },
-			],
-		},
-		{
-			group_name: 'maps_area',
-			title: 'Mapas - Área',
-			images: [
 				{
 					name: 'rebobina_mapa_area.jpg',
 					relevance: 2,
@@ -289,11 +283,19 @@
 			{#each images as { name, legenda, relevance }}
 				<Step
 					fadeInThenSemiOut
+					blur
+					growThenShrink
+					transform3d
 					class={`${
 						images.length > 10 ? 'w-1/6' : images.length >= 5 ? 'w-48' : 'w-1/4'
-					} flex flex-col items-start rounded-md`}
+					} flex flex-col items-start`}
 				>
-					<Media type="img" src={`/screenshots/${name}`} alt={name} />
+					<Media
+						type="img"
+						src={`/screenshots/${name}`}
+						alt={name}
+						class="rounded-md"
+					/>
 					{#if legenda}
 						<p class="text-sm text-gray-400 mt-1">{legenda}</p>
 					{/if}

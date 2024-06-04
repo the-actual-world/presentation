@@ -19,6 +19,9 @@
 	export let grow = false
 	export let shrink = false
 	export let strike = false
+	export let blur = false
+	export let growThenShrink = false
+	export let transform3d = false
 
 	delete $$restProps.class
 </script>
@@ -45,9 +48,28 @@
 	class:grow
 	class:shrink
 	class:strike
+	class:blur
+	class:grow-then-shrink={growThenShrink}
+	class:transform3d
 	class="fragment {$$props.class || ''}"
 	data-fragment-index={order}
 	{...$$restProps}
 >
 	<slot />
 </p>
+
+<style>
+	.fragment.blur {
+		filter: blur(5px);
+	}
+	.fragment.blur.current-fragment {
+		filter: none;
+	}
+	.fragment.grow-then-shrink.current-fragment {
+		scale: 1.15;
+		padding-bottom: 320px;
+	}
+	.fragment.transform3d.current-fragment {
+		transform: rotateX(8deg) rotateY(10deg);
+	}
+</style>
