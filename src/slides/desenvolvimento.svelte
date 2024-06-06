@@ -77,7 +77,7 @@
 	</ul>
 </Slide>
 <Slide>
-	<h2 class="my-title">Como assim, créditos!</h2>
+	<h2 class="my-title">Como assim "créditos"?</h2>
 	<ul class="my-list">
 		<Step>
 			<li>Não vendemos os dados dos nossos utilizadores</li>
