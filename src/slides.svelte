@@ -1,7 +1,7 @@
 <script lang="ts">
 	import { Presentation, Slide } from '@components'
 	import { signal } from '@motion'
-	import Landing from './slides/landing.svelte'
+	import Introducao from './slides/introducao.svelte'
 	import Desenvolvimento from './slides/desenvolvimento.svelte'
 
 	import './global.css'
@@ -9,7 +9,7 @@
 </script>
 
 <Presentation>
-	<Landing />
+	<Introducao />
 	<Desenvolvimento />
 	<Screenshots />
 </Presentation>

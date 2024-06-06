@@ -67,7 +67,7 @@
 	}
 	.fragment.grow-then-shrink.current-fragment {
 		scale: 1.15;
-		padding-bottom: 320px;
+		padding-bottom: 335px;
 	}
 	.fragment.transform3d.current-fragment {
 		transform: rotateX(8deg) rotateY(10deg);

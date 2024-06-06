@@ -29,6 +29,7 @@
 		"vite": "^5.1.4"
 	},
 	"dependencies": {
+		"@fontsource-variable/inter": "^5.0.18",
 		"@fontsource-variable/jetbrains-mono": "^5.0.19",
 		"@fontsource-variable/manrope": "^5.0.18",
 		"d3-interpolate": "^3.0.1",

@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="35 45 1275 785" width="1240px" height="740px" xmlns="http://www.w3.org/2000/svg" version="1.1">
+   <rect width="95" height="20" x="50" y="190" style="fill:#007;stroke:black;"/>
+   <text width="95" height="20" x="55" y="204" style="fill:#fff;" font-family="Arial" font-size="16px"> atualizacoes</text>
+   <rect width="95" height="20" x="50" y="210" style="fill:#aea;stroke:black;"/>
+   <text width="95" height="20" x="55" y="224" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="95" height="20" x="50" y="230" style="fill:none;stroke:black;"/>
+   <text width="95" height="20" x="55" y="244" style="fill:black;" font-family="Arial" font-size="16px">imagem</text>
+   <rect width="95" height="20" x="50" y="250" style="fill:none;stroke:black;"/>
+   <text width="95" height="20" x="55" y="264" style="fill:black;" font-family="Arial" font-size="16px">tipo</text>
+   <rect width="95" height="20" x="50" y="270" style="fill:none;stroke:black;"/>
+   <text width="95" height="20" x="55" y="284" style="fill:black;" font-family="Arial" font-size="16px">data</text>
+   <rect width="95" height="20" x="50" y="290" style="fill:none;stroke:black;"/>
+   <text width="95" height="20" x="55" y="304" style="fill:black;" font-family="Arial" font-size="16px">ativo</text>
+   <rect width="132" height="20" x="220" y="60" style="fill:#007;stroke:black;"/>
+   <text width="132" height="20" x="225" y="74" style="fill:#fff;" font-family="Arial" font-size="16px"> atualizacoes_lang</text>
+   <rect width="132" height="20" x="220" y="80" style="fill:#aea;stroke:black;"/>
+   <text width="132" height="20" x="225" y="94" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="132" height="20" x="220" y="100" style="fill:none;stroke:black;"/>
+   <text width="132" height="20" x="225" y="114" style="fill:black;" font-family="Arial" font-size="16px">lang</text>
+   <rect width="132" height="20" x="220" y="120" style="fill:none;stroke:black;"/>
+   <text width="132" height="20" x="225" y="134" style="fill:black;" font-family="Arial" font-size="16px">titulo</text>
+   <rect width="132" height="20" x="220" y="140" style="fill:none;stroke:black;"/>
+   <text width="132" height="20" x="225" y="154" style="fill:black;" font-family="Arial" font-size="16px">conteudo</text>
+   <rect width="115" height="20" x="920" y="110" style="fill:#007;stroke:black;"/>
+   <text width="115" height="20" x="925" y="124" style="fill:#fff;" font-family="Arial" font-size="16px"> conteudo</text>
+   <rect width="115" height="20" x="920" y="130" style="fill:#aea;stroke:black;"/>
+   <text width="115" height="20" x="925" y="144" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="115" height="20" x="920" y="150" style="fill:none;stroke:black;"/>
+   <text width="115" height="20" x="925" y="164" style="fill:black;" font-family="Arial" font-size="16px">slug</text>
+   <rect width="115" height="20" x="920" y="170" style="fill:none;stroke:black;"/>
+   <text width="115" height="20" x="925" y="184" style="fill:black;" font-family="Arial" font-size="16px">imagem</text>
+   <rect width="115" height="20" x="920" y="190" style="fill:none;stroke:black;"/>
+   <text width="115" height="20" x="925" y="204" style="fill:black;" font-family="Arial" font-size="16px">modificado_em</text>
+   <rect width="115" height="20" x="920" y="210" style="fill:none;stroke:black;"/>
+   <text width="115" height="20" x="925" y="224" style="fill:black;" font-family="Arial" font-size="16px">ativo</text>
+   <rect width="111" height="20" x="420" y="60" style="fill:#007;stroke:black;"/>
+   <text width="111" height="20" x="425" y="74" style="fill:#fff;" font-family="Arial" font-size="16px"> conteudo_lang</text>
+   <rect width="111" height="20" x="420" y="80" style="fill:#aea;stroke:black;"/>
+   <text width="111" height="20" x="425" y="94" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="111" height="20" x="420" y="100" style="fill:none;stroke:black;"/>
+   <text width="111" height="20" x="425" y="114" style="fill:black;" font-family="Arial" font-size="16px">lang</text>
+   <rect width="111" height="20" x="420" y="120" style="fill:none;stroke:black;"/>
+   <text width="111" height="20" x="425" y="134" style="fill:black;" font-family="Arial" font-size="16px">titulo</text>
+   <rect width="111" height="20" x="420" y="140" style="fill:none;stroke:black;"/>
+   <text width="111" height="20" x="425" y="154" style="fill:black;" font-family="Arial" font-size="16px">conteudo</text>
+   <rect width="67" height="20" x="400" y="340" style="fill:#007;stroke:black;"/>
+   <text width="67" height="20" x="405" y="354" style="fill:#fff;" font-family="Arial" font-size="16px"> equipa</text>
+   <rect width="67" height="20" x="400" y="360" style="fill:#aea;stroke:black;"/>
+   <text width="67" height="20" x="405" y="374" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="67" height="20" x="400" y="380" style="fill:none;stroke:black;"/>
+   <text width="67" height="20" x="405" y="394" style="fill:black;" font-family="Arial" font-size="16px">nome</text>
+   <rect width="67" height="20" x="400" y="400" style="fill:none;stroke:black;"/>
+   <text width="67" height="20" x="405" y="414" style="fill:black;" font-family="Arial" font-size="16px">imagem</text>
+   <rect width="67" height="20" x="400" y="420" style="fill:none;stroke:black;"/>
+   <text width="67" height="20" x="405" y="434" style="fill:black;" font-family="Arial" font-size="16px">ordem</text>
+   <rect width="67" height="20" x="400" y="440" style="fill:none;stroke:black;"/>
+   <text width="67" height="20" x="405" y="454" style="fill:black;" font-family="Arial" font-size="16px">ativo</text>
+   <rect width="92" height="20" x="410" y="690" style="fill:#007;stroke:black;"/>
+   <text width="92" height="20" x="415" y="704" style="fill:#fff;" font-family="Arial" font-size="16px"> equipa_lang</text>
+   <rect width="92" height="20" x="410" y="710" style="fill:none;stroke:black;"/>
+   <text width="92" height="20" x="415" y="724" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="92" height="20" x="410" y="730" style="fill:none;stroke:black;"/>
+   <text width="92" height="20" x="415" y="744" style="fill:black;" font-family="Arial" font-size="16px">lang</text>
+   <rect width="92" height="20" x="410" y="750" style="fill:none;stroke:black;"/>
+   <text width="92" height="20" x="415" y="764" style="fill:black;" font-family="Arial" font-size="16px">cargo</text>
+   <rect width="93" height="20" x="240" y="370" style="fill:#007;stroke:black;"/>
+   <text width="93" height="20" x="245" y="384" style="fill:#fff;" font-family="Arial" font-size="16px"> faq</text>
+   <rect width="93" height="20" x="240" y="390" style="fill:#aea;stroke:black;"/>
+   <text width="93" height="20" x="245" y="404" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="93" height="20" x="240" y="410" style="fill:none;stroke:black;"/>
+   <text width="93" height="20" x="245" y="424" style="fill:black;" font-family="Arial" font-size="16px">id_categoria</text>
+   <rect width="93" height="20" x="240" y="430" style="fill:none;stroke:black;"/>
+   <text width="93" height="20" x="245" y="444" style="fill:black;" font-family="Arial" font-size="16px">ativo</text>
+   <rect width="112" height="20" x="740" y="270" style="fill:#007;stroke:black;"/>
+   <text width="112" height="20" x="745" y="284" style="fill:#fff;" font-family="Arial" font-size="16px"> faq_categorias</text>
+   <rect width="112" height="20" x="740" y="290" style="fill:#aea;stroke:black;"/>
+   <text width="112" height="20" x="745" y="304" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="112" height="20" x="740" y="310" style="fill:none;stroke:black;"/>
+   <text width="112" height="20" x="745" y="324" style="fill:black;" font-family="Arial" font-size="16px">icone</text>
+   <rect width="112" height="20" x="740" y="330" style="fill:none;stroke:black;"/>
+   <text width="112" height="20" x="745" y="344" style="fill:black;" font-family="Arial" font-size="16px">id_pai</text>
+   <rect width="112" height="20" x="740" y="350" style="fill:none;stroke:black;"/>
+   <text width="112" height="20" x="745" y="364" style="fill:black;" font-family="Arial" font-size="16px">ativo</text>
+   <rect width="148" height="20" x="530" y="240" style="fill:#007;stroke:black;"/>
+   <text width="148" height="20" x="535" y="254" style="fill:#fff;" font-family="Arial" font-size="16px"> faq_categorias_lang</text>
+   <rect width="148" height="20" x="530" y="260" style="fill:#aea;stroke:black;"/>
+   <text width="148" height="20" x="535" y="274" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="148" height="20" x="530" y="280" style="fill:none;stroke:black;"/>
+   <text width="148" height="20" x="535" y="294" style="fill:black;" font-family="Arial" font-size="16px">lang</text>
+   <rect width="148" height="20" x="530" y="300" style="fill:none;stroke:black;"/>
+   <text width="148" height="20" x="535" y="314" style="fill:black;" font-family="Arial" font-size="16px">nome</text>
+   <rect width="76" height="20" x="400" y="530" style="fill:#007;stroke:black;"/>
+   <text width="76" height="20" x="405" y="544" style="fill:#fff;" font-family="Arial" font-size="16px"> faq_lang</text>
+   <rect width="76" height="20" x="400" y="550" style="fill:#aea;stroke:black;"/>
+   <text width="76" height="20" x="405" y="564" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="76" height="20" x="400" y="570" style="fill:none;stroke:black;"/>
+   <text width="76" height="20" x="405" y="584" style="fill:black;" font-family="Arial" font-size="16px">lang</text>
+   <rect width="76" height="20" x="400" y="590" style="fill:none;stroke:black;"/>
+   <text width="76" height="20" x="405" y="604" style="fill:black;" font-family="Arial" font-size="16px">titulo</text>
+   <rect width="76" height="20" x="400" y="610" style="fill:none;stroke:black;"/>
+   <text width="76" height="20" x="405" y="624" style="fill:black;" font-family="Arial" font-size="16px">conteudo</text>
+   <rect width="118" height="20" x="550" y="370" style="fill:#007;stroke:black;"/>
+   <text width="118" height="20" x="555" y="384" style="fill:#fff;" font-family="Arial" font-size="16px"> funcionalidades</text>
+   <rect width="118" height="20" x="550" y="390" style="fill:#aea;stroke:black;"/>
+   <text width="118" height="20" x="555" y="404" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="118" height="20" x="550" y="410" style="fill:none;stroke:black;"/>
+   <text width="118" height="20" x="555" y="424" style="fill:black;" font-family="Arial" font-size="16px">icone</text>
+   <rect width="118" height="20" x="550" y="430" style="fill:none;stroke:black;"/>
+   <text width="118" height="20" x="555" y="444" style="fill:black;" font-family="Arial" font-size="16px">ordem</text>
+   <rect width="118" height="20" x="550" y="450" style="fill:none;stroke:black;"/>
+   <text width="118" height="20" x="555" y="464" style="fill:black;" font-family="Arial" font-size="16px">ativo</text>
+   <rect width="155" height="20" x="50" y="500" style="fill:#007;stroke:black;"/>
+   <text width="155" height="20" x="55" y="514" style="fill:#fff;" font-family="Arial" font-size="16px"> funcionalidades_lang</text>
+   <rect width="155" height="20" x="50" y="520" style="fill:#aea;stroke:black;"/>
+   <text width="155" height="20" x="55" y="534" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="155" height="20" x="50" y="540" style="fill:none;stroke:black;"/>
+   <text width="155" height="20" x="55" y="554" style="fill:black;" font-family="Arial" font-size="16px">lang</text>
+   <rect width="155" height="20" x="50" y="560" style="fill:none;stroke:black;"/>
+   <text width="155" height="20" x="55" y="574" style="fill:black;" font-family="Arial" font-size="16px">titulo</text>
+   <rect width="155" height="20" x="50" y="580" style="fill:none;stroke:black;"/>
+   <text width="155" height="20" x="55" y="594" style="fill:black;" font-family="Arial" font-size="16px">descricao</text>
+   <rect width="94" height="20" x="920" y="530" style="fill:#007;stroke:black;"/>
+   <text width="94" height="20" x="925" y="544" style="fill:#fff;" font-family="Arial" font-size="16px"> logs</text>
+   <rect width="94" height="20" x="920" y="550" style="fill:#aea;stroke:black;"/>
+   <text width="94" height="20" x="925" y="564" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="94" height="20" x="920" y="570" style="fill:none;stroke:black;"/>
+   <text width="94" height="20" x="925" y="584" style="fill:black;" font-family="Arial" font-size="16px">pagina</text>
+   <rect width="94" height="20" x="920" y="590" style="fill:none;stroke:black;"/>
+   <text width="94" height="20" x="925" y="604" style="fill:black;" font-family="Arial" font-size="16px">modulo</text>
+   <rect width="94" height="20" x="920" y="610" style="fill:none;stroke:black;"/>
+   <text width="94" height="20" x="925" y="624" style="fill:black;" font-family="Arial" font-size="16px">acao</text>
+   <rect width="94" height="20" x="920" y="630" style="fill:none;stroke:black;"/>
+   <text width="94" height="20" x="925" y="644" style="fill:black;" font-family="Arial" font-size="16px">id_utilizador</text>
+   <rect width="94" height="20" x="920" y="650" style="fill:none;stroke:black;"/>
+   <text width="94" height="20" x="925" y="664" style="fill:black;" font-family="Arial" font-size="16px">endereco_ip</text>
+   <rect width="94" height="20" x="920" y="670" style="fill:none;stroke:black;"/>
+   <text width="94" height="20" x="925" y="684" style="fill:black;" font-family="Arial" font-size="16px">id_sessao</text>
+   <rect width="94" height="20" x="920" y="690" style="fill:none;stroke:black;"/>
+   <text width="94" height="20" x="925" y="704" style="fill:black;" font-family="Arial" font-size="16px">de_onde</text>
+   <rect width="94" height="20" x="920" y="710" style="fill:none;stroke:black;"/>
+   <text width="94" height="20" x="925" y="724" style="fill:black;" font-family="Arial" font-size="16px">data</text>
+   <rect width="89" height="20" x="920" y="290" style="fill:#007;stroke:black;"/>
+   <text width="89" height="20" x="925" y="304" style="fill:#fff;" font-family="Arial" font-size="16px"> mensagens</text>
+   <rect width="89" height="20" x="920" y="310" style="fill:#aea;stroke:black;"/>
+   <text width="89" height="20" x="925" y="324" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="89" height="20" x="920" y="330" style="fill:none;stroke:black;"/>
+   <text width="89" height="20" x="925" y="344" style="fill:black;" font-family="Arial" font-size="16px">nome</text>
+   <rect width="89" height="20" x="920" y="350" style="fill:none;stroke:black;"/>
+   <text width="89" height="20" x="925" y="364" style="fill:black;" font-family="Arial" font-size="16px">email</text>
+   <rect width="89" height="20" x="920" y="370" style="fill:none;stroke:black;"/>
+   <text width="89" height="20" x="925" y="384" style="fill:black;" font-family="Arial" font-size="16px">titulo</text>
+   <rect width="89" height="20" x="920" y="390" style="fill:none;stroke:black;"/>
+   <text width="89" height="20" x="925" y="404" style="fill:black;" font-family="Arial" font-size="16px">mensagem</text>
+   <rect width="89" height="20" x="920" y="410" style="fill:none;stroke:black;"/>
+   <text width="89" height="20" x="925" y="424" style="fill:black;" font-family="Arial" font-size="16px">data</text>
+   <rect width="89" height="20" x="920" y="430" style="fill:none;stroke:black;"/>
+   <text width="89" height="20" x="925" y="444" style="fill:black;" font-family="Arial" font-size="16px">ativo</text>
+   <rect width="55" height="20" x="280" y="630" style="fill:#007;stroke:black;"/>
+   <text width="55" height="20" x="285" y="644" style="fill:#fff;" font-family="Arial" font-size="16px"> menu</text>
+   <rect width="55" height="20" x="280" y="650" style="fill:#aea;stroke:black;"/>
+   <text width="55" height="20" x="285" y="664" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="55" height="20" x="280" y="670" style="fill:none;stroke:black;"/>
+   <text width="55" height="20" x="285" y="684" style="fill:black;" font-family="Arial" font-size="16px">url</text>
+   <rect width="55" height="20" x="280" y="690" style="fill:none;stroke:black;"/>
+   <text width="55" height="20" x="285" y="704" style="fill:black;" font-family="Arial" font-size="16px">id_pai</text>
+   <rect width="55" height="20" x="280" y="710" style="fill:none;stroke:black;"/>
+   <text width="55" height="20" x="285" y="724" style="fill:black;" font-family="Arial" font-size="16px">ordem</text>
+   <rect width="55" height="20" x="280" y="730" style="fill:none;stroke:black;"/>
+   <text width="55" height="20" x="285" y="744" style="fill:black;" font-family="Arial" font-size="16px">ativo</text>
+   <rect width="86" height="20" x="370" y="210" style="fill:#007;stroke:black;"/>
+   <text width="86" height="20" x="375" y="224" style="fill:#fff;" font-family="Arial" font-size="16px"> menu_lang</text>
+   <rect width="86" height="20" x="370" y="230" style="fill:#aea;stroke:black;"/>
+   <text width="86" height="20" x="375" y="244" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="86" height="20" x="370" y="250" style="fill:none;stroke:black;"/>
+   <text width="86" height="20" x="375" y="264" style="fill:black;" font-family="Arial" font-size="16px">lang</text>
+   <rect width="86" height="20" x="370" y="270" style="fill:none;stroke:black;"/>
+   <text width="86" height="20" x="375" y="284" style="fill:black;" font-family="Arial" font-size="16px">titulo</text>
+   <rect width="115" height="20" x="600" y="60" style="fill:#007;stroke:black;"/>
+   <text width="115" height="20" x="605" y="74" style="fill:#fff;" font-family="Arial" font-size="16px"> paginas</text>
+   <rect width="115" height="20" x="600" y="80" style="fill:none;stroke:black;"/>
+   <text width="115" height="20" x="605" y="94" style="fill:black;" font-family="Arial" font-size="16px">url</text>
+   <rect width="115" height="20" x="600" y="100" style="fill:none;stroke:black;"/>
+   <text width="115" height="20" x="605" y="114" style="fill:black;" font-family="Arial" font-size="16px">titulo</text>
+   <rect width="115" height="20" x="600" y="120" style="fill:none;stroke:black;"/>
+   <text width="115" height="20" x="605" y="134" style="fill:black;" font-family="Arial" font-size="16px">conteudo</text>
+   <rect width="115" height="20" x="600" y="140" style="fill:none;stroke:black;"/>
+   <text width="115" height="20" x="605" y="154" style="fill:black;" font-family="Arial" font-size="16px">modificado_em</text>
+   <rect width="115" height="20" x="600" y="160" style="fill:none;stroke:black;"/>
+   <text width="115" height="20" x="605" y="174" style="fill:black;" font-family="Arial" font-size="16px">ativo</text>
+   <rect width="62" height="20" x="270" y="500" style="fill:#007;stroke:black;"/>
+   <text width="62" height="20" x="275" y="514" style="fill:#fff;" font-family="Arial" font-size="16px"> passos</text>
+   <rect width="62" height="20" x="270" y="520" style="fill:#aea;stroke:black;"/>
+   <text width="62" height="20" x="275" y="534" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="62" height="20" x="270" y="540" style="fill:none;stroke:black;"/>
+   <text width="62" height="20" x="275" y="554" style="fill:black;" font-family="Arial" font-size="16px">ordem</text>
+   <rect width="62" height="20" x="270" y="560" style="fill:none;stroke:black;"/>
+   <text width="62" height="20" x="275" y="574" style="fill:black;" font-family="Arial" font-size="16px">ativo</text>
+   <rect width="92" height="20" x="210" y="210" style="fill:#007;stroke:black;"/>
+   <text width="92" height="20" x="215" y="224" style="fill:#fff;" font-family="Arial" font-size="16px"> passos_lang</text>
+   <rect width="92" height="20" x="210" y="230" style="fill:#aea;stroke:black;"/>
+   <text width="92" height="20" x="215" y="244" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="92" height="20" x="210" y="250" style="fill:none;stroke:black;"/>
+   <text width="92" height="20" x="215" y="264" style="fill:black;" font-family="Arial" font-size="16px">lang</text>
+   <rect width="92" height="20" x="210" y="270" style="fill:none;stroke:black;"/>
+   <text width="92" height="20" x="215" y="284" style="fill:black;" font-family="Arial" font-size="16px">titulo</text>
+   <rect width="92" height="20" x="210" y="290" style="fill:none;stroke:black;"/>
+   <text width="92" height="20" x="215" y="304" style="fill:black;" font-family="Arial" font-size="16px">descricao</text>
+   <rect width="116" height="20" x="750" y="430" style="fill:#007;stroke:black;"/>
+   <text width="116" height="20" x="755" y="444" style="fill:#fff;" font-family="Arial" font-size="16px"> patrocinadores</text>
+   <rect width="116" height="20" x="750" y="450" style="fill:#aea;stroke:black;"/>
+   <text width="116" height="20" x="755" y="464" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="116" height="20" x="750" y="470" style="fill:none;stroke:black;"/>
+   <text width="116" height="20" x="755" y="484" style="fill:black;" font-family="Arial" font-size="16px">imagem</text>
+   <rect width="116" height="20" x="750" y="490" style="fill:none;stroke:black;"/>
+   <text width="116" height="20" x="755" y="504" style="fill:black;" font-family="Arial" font-size="16px">url</text>
+   <rect width="116" height="20" x="750" y="510" style="fill:none;stroke:black;"/>
+   <text width="116" height="20" x="755" y="524" style="fill:black;" font-family="Arial" font-size="16px">ordem</text>
+   <rect width="116" height="20" x="750" y="530" style="fill:none;stroke:black;"/>
+   <text width="116" height="20" x="755" y="544" style="fill:black;" font-family="Arial" font-size="16px">ativo</text>
+   <rect width="148" height="20" x="540" y="530" style="fill:#007;stroke:black;"/>
+   <text width="148" height="20" x="545" y="544" style="fill:#fff;" font-family="Arial" font-size="16px"> patrocinadores_lang</text>
+   <rect width="148" height="20" x="540" y="550" style="fill:#aea;stroke:black;"/>
+   <text width="148" height="20" x="545" y="564" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="148" height="20" x="540" y="570" style="fill:none;stroke:black;"/>
+   <text width="148" height="20" x="545" y="584" style="fill:black;" font-family="Arial" font-size="16px">lang</text>
+   <rect width="148" height="20" x="540" y="590" style="fill:none;stroke:black;"/>
+   <text width="148" height="20" x="545" y="604" style="fill:black;" font-family="Arial" font-size="16px">nome</text>
+   <rect width="78" height="20" x="760" y="90" style="fill:#007;stroke:black;"/>
+   <text width="78" height="20" x="765" y="104" style="fill:#fff;" font-family="Arial" font-size="16px"> produtos</text>
+   <rect width="78" height="20" x="760" y="110" style="fill:#aea;stroke:black;"/>
+   <text width="78" height="20" x="765" y="124" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="78" height="20" x="760" y="130" style="fill:none;stroke:black;"/>
+   <text width="78" height="20" x="765" y="144" style="fill:black;" font-family="Arial" font-size="16px">nome</text>
+   <rect width="78" height="20" x="760" y="150" style="fill:none;stroke:black;"/>
+   <text width="78" height="20" x="765" y="164" style="fill:black;" font-family="Arial" font-size="16px">descricao</text>
+   <rect width="78" height="20" x="760" y="170" style="fill:none;stroke:black;"/>
+   <text width="78" height="20" x="765" y="184" style="fill:black;" font-family="Arial" font-size="16px">preco</text>
+   <rect width="78" height="20" x="760" y="190" style="fill:none;stroke:black;"/>
+   <text width="78" height="20" x="765" y="204" style="fill:black;" font-family="Arial" font-size="16px">ativo</text>
+   <rect width="180" height="20" x="1080" y="400" style="fill:#007;stroke:black;"/>
+   <text width="180" height="20" x="1085" y="414" style="fill:#fff;" font-family="Arial" font-size="16px"> produtos_caracteristicas</text>
+   <rect width="180" height="20" x="1080" y="420" style="fill:#aea;stroke:black;"/>
+   <text width="180" height="20" x="1085" y="434" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="180" height="20" x="1080" y="440" style="fill:none;stroke:black;"/>
+   <text width="180" height="20" x="1085" y="454" style="fill:black;" font-family="Arial" font-size="16px">id_produto</text>
+   <rect width="180" height="20" x="1080" y="460" style="fill:none;stroke:black;"/>
+   <text width="180" height="20" x="1085" y="474" style="fill:black;" font-family="Arial" font-size="16px">ordem</text>
+   <rect width="180" height="20" x="1080" y="480" style="fill:none;stroke:black;"/>
+   <text width="180" height="20" x="1085" y="494" style="fill:black;" font-family="Arial" font-size="16px">nome</text>
+   <rect width="180" height="20" x="1080" y="500" style="fill:none;stroke:black;"/>
+   <text width="180" height="20" x="1085" y="514" style="fill:black;" font-family="Arial" font-size="16px">valor</text>
+   <rect width="180" height="20" x="1080" y="520" style="fill:none;stroke:black;"/>
+   <text width="180" height="20" x="1085" y="534" style="fill:black;" font-family="Arial" font-size="16px">ativo</text>
+   <rect width="138" height="20" x="1080" y="60" style="fill:#007;stroke:black;"/>
+   <text width="138" height="20" x="1085" y="74" style="fill:#fff;" font-family="Arial" font-size="16px"> produtos_imagens</text>
+   <rect width="138" height="20" x="1080" y="80" style="fill:#aea;stroke:black;"/>
+   <text width="138" height="20" x="1085" y="94" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="138" height="20" x="1080" y="100" style="fill:none;stroke:black;"/>
+   <text width="138" height="20" x="1085" y="114" style="fill:black;" font-family="Arial" font-size="16px">id_produto</text>
+   <rect width="138" height="20" x="1080" y="120" style="fill:none;stroke:black;"/>
+   <text width="138" height="20" x="1085" y="134" style="fill:black;" font-family="Arial" font-size="16px">imagem</text>
+   <rect width="138" height="20" x="1080" y="140" style="fill:none;stroke:black;"/>
+   <text width="138" height="20" x="1085" y="154" style="fill:black;" font-family="Arial" font-size="16px">ordem</text>
+   <rect width="138" height="20" x="1080" y="160" style="fill:none;stroke:black;"/>
+   <text width="138" height="20" x="1085" y="174" style="fill:black;" font-family="Arial" font-size="16px">ativo</text>
+   <rect width="125" height="20" x="50" y="370" style="fill:#007;stroke:black;"/>
+   <text width="125" height="20" x="55" y="384" style="fill:#fff;" font-family="Arial" font-size="16px"> seccoes_missao</text>
+   <rect width="125" height="20" x="50" y="390" style="fill:#aea;stroke:black;"/>
+   <text width="125" height="20" x="55" y="404" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="125" height="20" x="50" y="410" style="fill:none;stroke:black;"/>
+   <text width="125" height="20" x="55" y="424" style="fill:black;" font-family="Arial" font-size="16px">ordem</text>
+   <rect width="125" height="20" x="50" y="430" style="fill:none;stroke:black;"/>
+   <text width="125" height="20" x="55" y="444" style="fill:black;" font-family="Arial" font-size="16px">ativo</text>
+   <rect width="155" height="20" x="1080" y="240" style="fill:#007;stroke:black;"/>
+   <text width="155" height="20" x="1085" y="254" style="fill:#fff;" font-family="Arial" font-size="16px"> seccoes_missao_lang</text>
+   <rect width="155" height="20" x="1080" y="260" style="fill:#aea;stroke:black;"/>
+   <text width="155" height="20" x="1085" y="274" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="155" height="20" x="1080" y="280" style="fill:none;stroke:black;"/>
+   <text width="155" height="20" x="1085" y="294" style="fill:black;" font-family="Arial" font-size="16px">lang</text>
+   <rect width="155" height="20" x="1080" y="300" style="fill:none;stroke:black;"/>
+   <text width="155" height="20" x="1085" y="314" style="fill:black;" font-family="Arial" font-size="16px">titulo</text>
+   <rect width="155" height="20" x="1080" y="320" style="fill:none;stroke:black;"/>
+   <text width="155" height="20" x="1085" y="334" style="fill:black;" font-family="Arial" font-size="16px">descricao</text>
+   <rect width="124" height="20" x="580" y="660" style="fill:#007;stroke:black;"/>
+   <text width="124" height="20" x="585" y="674" style="fill:#fff;" font-family="Arial" font-size="16px"> testemunhos</text>
+   <rect width="124" height="20" x="580" y="680" style="fill:#aea;stroke:black;"/>
+   <text width="124" height="20" x="585" y="694" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="124" height="20" x="580" y="700" style="fill:none;stroke:black;"/>
+   <text width="124" height="20" x="585" y="714" style="fill:black;" font-family="Arial" font-size="16px">imagem_pessoa</text>
+   <rect width="124" height="20" x="580" y="720" style="fill:none;stroke:black;"/>
+   <text width="124" height="20" x="585" y="734" style="fill:black;" font-family="Arial" font-size="16px">estrelas</text>
+   <rect width="124" height="20" x="580" y="740" style="fill:none;stroke:black;"/>
+   <text width="124" height="20" x="585" y="754" style="fill:black;" font-family="Arial" font-size="16px">ativo</text>
+   <rect width="134" height="20" x="1080" y="610" style="fill:#007;stroke:black;"/>
+   <text width="134" height="20" x="1085" y="624" style="fill:#fff;" font-family="Arial" font-size="16px"> testemunhos_lang</text>
+   <rect width="134" height="20" x="1080" y="630" style="fill:#aea;stroke:black;"/>
+   <text width="134" height="20" x="1085" y="644" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="134" height="20" x="1080" y="650" style="fill:none;stroke:black;"/>
+   <text width="134" height="20" x="1085" y="664" style="fill:black;" font-family="Arial" font-size="16px">lang</text>
+   <rect width="134" height="20" x="1080" y="670" style="fill:none;stroke:black;"/>
+   <text width="134" height="20" x="1085" y="684" style="fill:black;" font-family="Arial" font-size="16px">nome_pessoa</text>
+   <rect width="134" height="20" x="1080" y="690" style="fill:none;stroke:black;"/>
+   <text width="134" height="20" x="1085" y="704" style="fill:black;" font-family="Arial" font-size="16px">cargo_pessoa</text>
+   <rect width="134" height="20" x="1080" y="710" style="fill:none;stroke:black;"/>
+   <text width="134" height="20" x="1085" y="724" style="fill:black;" font-family="Arial" font-size="16px">titulo</text>
+   <rect width="134" height="20" x="1080" y="730" style="fill:none;stroke:black;"/>
+   <text width="134" height="20" x="1085" y="744" style="fill:black;" font-family="Arial" font-size="16px">conteudo</text>
+   <rect width="113" height="20" x="750" y="610" style="fill:#007;stroke:black;"/>
+   <text width="113" height="20" x="755" y="624" style="fill:#fff;" font-family="Arial" font-size="16px"> utilizadores</text>
+   <rect width="113" height="20" x="750" y="630" style="fill:#aea;stroke:black;"/>
+   <text width="113" height="20" x="755" y="644" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="113" height="20" x="750" y="650" style="fill:none;stroke:black;"/>
+   <text width="113" height="20" x="755" y="664" style="fill:black;" font-family="Arial" font-size="16px">email</text>
+   <rect width="113" height="20" x="750" y="670" style="fill:none;stroke:black;"/>
+   <text width="113" height="20" x="755" y="684" style="fill:black;" font-family="Arial" font-size="16px">primeiro_nome</text>
+   <rect width="113" height="20" x="750" y="690" style="fill:none;stroke:black;"/>
+   <text width="113" height="20" x="755" y="704" style="fill:black;" font-family="Arial" font-size="16px">ultimo_nome</text>
+   <rect width="113" height="20" x="750" y="710" style="fill:none;stroke:black;"/>
+   <text width="113" height="20" x="755" y="724" style="fill:black;" font-family="Arial" font-size="16px">password</text>
+   <rect width="113" height="20" x="750" y="730" style="fill:none;stroke:black;"/>
+   <text width="113" height="20" x="755" y="744" style="fill:black;" font-family="Arial" font-size="16px">ativo</text>
+   <rect width="159" height="20" x="50" y="660" style="fill:#007;stroke:black;"/>
+   <text width="159" height="20" x="55" y="674" style="fill:#fff;" font-family="Arial" font-size="16px"> waitlist</text>
+   <rect width="159" height="20" x="50" y="680" style="fill:#aea;stroke:black;"/>
+   <text width="159" height="20" x="55" y="694" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="159" height="20" x="50" y="700" style="fill:none;stroke:black;"/>
+   <text width="159" height="20" x="55" y="714" style="fill:black;" font-family="Arial" font-size="16px">email</text>
+   <rect width="159" height="20" x="50" y="720" style="fill:none;stroke:black;"/>
+   <text width="159" height="20" x="55" y="734" style="fill:black;" font-family="Arial" font-size="16px">receber_atualizacoes</text>
+   <rect width="159" height="20" x="50" y="740" style="fill:none;stroke:black;"/>
+   <text width="159" height="20" x="55" y="754" style="fill:black;" font-family="Arial" font-size="16px">data</text>
+</svg>

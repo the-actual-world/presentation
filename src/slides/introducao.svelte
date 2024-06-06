@@ -1,6 +1,5 @@
 <script>
-	import { Slide } from '@components'
-	import Step from '@lib/components/step.svelte'
+	import { Media, Slide } from '@components'
 </script>
 
 <Slide animate>
@@ -29,6 +28,27 @@
 </Slide>
 
 <Slide animate>
-	<h1 class="text-3xl mt-4">Rodrigo Martins Dias</h1>
-	<p class="text-3xl mt-4">12ITM2 Nº12</p>
+	<h1 class="text-3xl mt-4">
+		Rodrigo Martins Dias
+
+		<span class="text-muted-foreground font-light"> 12ITM2 Nº12 </span>
+	</h1>
+	<hr class="mt-6" />
+	<div class="flex justify-center items-center flex-col gap-2">
+		<p class="text-3xl mt-4">Orientadora: Maria José Costa</p>
+		<div class="flex gap-2 items-center">
+			<Media
+				type="img"
+				src="/icons/colgaia.png"
+				alt="Colégio da Gaia"
+				class="h-16"
+			/>
+			<Media
+				type="img"
+				src="/icons/pessoas2030.png"
+				alt="Pessoas 2030"
+				class="h-16"
+			/>
+		</div>
+	</div>
 </Slide>
